@@ -14,7 +14,7 @@ def second_challenge
 
 groceries.collect do |category, items|
   items.value
-  end
+
 end
 
 groceries
