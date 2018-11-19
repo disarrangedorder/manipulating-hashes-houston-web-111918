@@ -12,8 +12,8 @@ def second_challenge
 
 
 
-groceries.collect do |categories, items|
-  categories.values
+groceries.values
+  
 binding.pry
 end
 
