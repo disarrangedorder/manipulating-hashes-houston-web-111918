@@ -18,4 +18,5 @@ groceries.collect do |category, items|
   end
 end
 
+groceries
 end
