@@ -17,5 +17,5 @@ groceries.collect do |category, items|
 
 end
 
-groceries
+binding.pry
 end
